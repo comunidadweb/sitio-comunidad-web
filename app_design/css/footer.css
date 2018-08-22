@@ -1,0 +1,39 @@
+/* Codigo para el estilo del footer*/
+#page-footer {
+    background-color: #3c3d41;
+    color: white;
+    padding-top: 36px;
+}
+
+#page-footer .footer-copyright {
+    background-color: #333333;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#page-footer .row {
+    margin-bottom: 20px;
+}
+
+#page-footer .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+#page-footer h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    #page-footer {
+        text-align: center;
+    }
+}
+
+#page-footer .info{
+    color: #afb0b1;
+}
