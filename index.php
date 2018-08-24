@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Gudea|Rajdhani" rel="stylesheet">
 
 	<!-- alertify core JavaScript -->
-	<script src="app_core/alertify/alertify.min.js"></script>
+	<script src="app_core/alertify/alertify.min.js"> </script>
 	
 	<!-- Custom fa fa icons -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/> 
