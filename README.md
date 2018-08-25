@@ -1,4 +1,4 @@
-#//--------------------------- Version 1.0
+# Version 1.0
 
 El presente sitio-comunidad-web es un repositorio abierto
 el cual solo la comunidad de desarrollo web de la sede 
